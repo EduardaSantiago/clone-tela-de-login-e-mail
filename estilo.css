@@ -1,0 +1,96 @@
+*{
+    font-family: "Google Sans", "Noto Sans Myanmar UI", arial, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1.3333;
+    color: #202124;
+}
+
+.imagem-logo{
+    padding: 30px;
+    width: 80px;
+}
+
+.caixa{
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #dadce0;
+    border-radius: 8px;
+    width: 60%;
+}
+
+.imagem-logo{
+    display: block;
+    margin: 10px auto;
+}
+.text{
+    text-align: center;
+    margin: 25px ;
+}
+
+#email{
+   font-size: 19px;
+}
+
+.caixa-email{
+    display: block;
+    margin: 0 auto;
+    width: 85%;
+    height: 35px;
+    border: 1px solid #dadce0;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 18px;
+    color: #5f6368;
+}
+
+.reset-email{
+    display: inline-block;
+    margin: 25px;
+    text-decoration: none;
+    color: #1a73e8;
+    font-size: 15px;
+        font-weight: bold;
+
+}
+
+p {
+    font-size: 15px; 
+    color: #5f6368;
+    margin: 15px;
+
+}
+
+.saiba-mais{
+    text-decoration: none;
+    color: #1a73e8;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.botao-conta{
+    position: relative;
+    left: 25px;   
+    border: none;
+    background: #ffffff;
+    color: #1a73e8;
+    font-size: 15px;
+
+}
+
+.bota-proximo{
+    position: relative;
+    right: -230px;
+    margin:30px;
+    background: #1a73e8;
+    border: none;
+    color: #dadce0;
+    font-size: 15px;
+    border-radius: 5px;
+    height: 30px;
+    width: 99px;
+}
